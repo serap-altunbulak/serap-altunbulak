@@ -88,4 +88,4 @@
 <img src="https://activity-graph.herokuapp.com/graph?username=serap-altunbulak&bg_color=2B213A&color=E5289E&line=DA5B0B&point=E1E8EB">
 
 <!-- snake -->
-<img align="center" src="https://github.com/serap-altunbulak/serap-altunbulak/blob/output/github-contribution-grid-snake.gif" alt="snake">
+<img align="center" src="https://github.com/serap-altunbulak/serap-altunbulak/blob/output/github-contribution-grid-snake.svg" alt="snake">
