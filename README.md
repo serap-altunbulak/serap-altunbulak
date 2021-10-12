@@ -11,8 +11,8 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serap-altunbulak/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/serapaltunbulak)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serapaltunbulak)
+![FreeCodeCamp](https://img.shields.io/freecodecamp/points/rootpath?color=blue&label=FreeCodeCamp%20Points&logo=freecodecamp&style=for-the-badge)
 ![Visitor](https://komarev.com/ghpvc/?username=serap-altunbulak&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
-
 <!-- skills -->
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
