@@ -14,8 +14,8 @@
 ![FreeCodeCamp](https://img.shields.io/freecodecamp/points/rootpath?color=blue&label=FreeCodeCamp%20Points&logo=freecodecamp&style=for-the-badge)
 ![Visitor](https://komarev.com/ghpvc/?username=serap-altunbulak&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 <br>
-![Join Global AI Hub](https://globalaihub.com/?ref=root)
-![And Follow Me](https://globalaihub.com/members/root/)
+[Join Global AI Hub](https://globalaihub.com/?ref=root)
+[And Follow Me](https://globalaihub.com/members/root/)
 <!-- skills -->
 <h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
 <table width="100">
