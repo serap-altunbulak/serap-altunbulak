@@ -58,12 +58,12 @@
     <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
     </td>
-    <td align='center'>
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60">
-    </td>
-    <td align='center'>
+    </td> -->
+<!--     <td align='center'>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
-    </td>
+    </td> -->
     <!-- <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60">
     </td>
