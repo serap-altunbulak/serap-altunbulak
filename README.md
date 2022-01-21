@@ -10,68 +10,14 @@
 [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/serapaltunbulak)
 [![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serap491@gmail.com)
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serap-altunbulak/)
-[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/serapaltunbulak)
+[![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/serapaltunbulak)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serapaltunbulak)
 ![FreeCodeCamp](https://img.shields.io/freecodecamp/points/rootpath?color=blue&label=FreeCodeCamp%20Points&logo=freecodecamp&style=for-the-badge)
 ![Visitor](https://komarev.com/ghpvc/?username=serap-altunbulak&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
 <br>
 [Join Global AI Hub](https://globalaihub.com/?ref=root)
 [And Follow Me](https://globalaihub.com/members/root/?ref=root)
-<!-- skills -->
-<h2 align='center'><i>💻⚙ Tech Stack 💻 (My Skills) ⚙💻</i></h2>
-<table width="100">
-<tr>
-    <td align='center'>
-        <img src="https://image.flaticon.com/icons/png/512/732/732212.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
-    </td>
-    <td align='center' width="190">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60">
-    </td>
-    <!-- <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" >
-    </td> -->
-    <!-- <td align='center'>
-        <img src="https://reactnative.dev/img/header_logo.svg" >
-    </td> -->
-</tr>
-<tr>
-    <td align='center' width="190">
-        <img src="https://user-images.githubusercontent.com/68724228/119315331-5cea3780-bc93-11eb-9bbf-bc2c9f083e00.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="80">
-    </td>
-    <!-- <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-    </td> -->
-    <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-    </td>
-</tr>
-<tr>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60">
-    </td>
-<!--     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="60">
-    </td> -->
-<!--     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" >
-    </td> -->
-    <!-- <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60">
-    </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="60">
-    </td> -->
-</tr>
-</table>
+
 
 <!-- trophy -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=serap-altunbulak&theme=radical&no-bg=false&no-frame=false&row=1&column=6&margin-w=30&margin-h=30"/>
