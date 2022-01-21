@@ -12,8 +12,13 @@
 [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serap-altunbulak/)
 [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/serapaltunbulak)
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@serapaltunbulak)
+[![hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/altserap)
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/serapaltunbulak)
+[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/altserap/)
+[![sololearn](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/5996148)
 ![FreeCodeCamp](https://img.shields.io/freecodecamp/points/rootpath?color=blue&label=FreeCodeCamp%20Points&logo=freecodecamp&style=for-the-badge)
 ![Visitor](https://komarev.com/ghpvc/?username=serap-altunbulak&color=blueviolet&style=flat-square&label=PROFILE+VIEWS)
+[![linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/altunbulak)
 <br>
 [Join Global AI Hub](https://globalaihub.com/?ref=root)
 [And Follow Me](https://globalaihub.com/members/root/?ref=root)
